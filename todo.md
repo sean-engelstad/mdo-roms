@@ -4,7 +4,7 @@
 
 
 ## Demos
-- [ ] investigate beam case, see if numerical issues in SVD
+- [ ] investigate beam case with high stresses, see if numerical issues in SVD
     * should have smooth stresses apparently even if POD just on disps
     * check # modes, # snapshots for disp, 1st and 2nd derivatives of disp
 * plate structural optimizations:
