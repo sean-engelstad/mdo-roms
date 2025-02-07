@@ -12,3 +12,7 @@
     - [ ] hyper-reduction example
     - [ ] GPUs to do this in GPU_FEM (compare to python results here)
     - [ ] compare with operator learning strategies
+- [ ] put MELD on the GPU
+- [ ] put Arrow FVM from Brian on the GPU (my own repo)
+- [ ] demo fluids ROMs with Arrow (w/ GPU for reduced stiffness)
+- [ ] demo aeroelastic ROM! (by proposal time), this would be sick
